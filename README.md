@@ -16,7 +16,7 @@ V2ray多合一脚本，支持VMESS+websocket+TLS+Nginx、VLESS+TCP+XTLS、VLESS+
 <li>TROJAN+XTLS(推荐)</li>
 <br>
 <p>安装方法：</p>
-bash <(curl -sL https://raw.githubusercontent.com/hiifeng/v2ray/main/install_v2ray.sh)<br>
+bash <(curl -sL https://raw.githubusercontent.com/luoyinhuan/v2ray/main/install_v2ray.sh)<br>
 如果没有出现安装菜单，CentOS系统请输入 yum install -y curl，Ubuntu/Debian系统请输入 sudo apt install -y curl，然后再次运行上面的命令。<br>
 <br>
 <p>维护更新：</p>
